@@ -1,0 +1,4 @@
+# Ignorar pastas de dados do Kaggle
+data/test/
+data/train/
+data/*
